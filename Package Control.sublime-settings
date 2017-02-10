@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"ColorPicker",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"Package Syncing",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeEnhancedUtilitiesSet",
+		"SublimeLinter",
+		"Theme - Spacegray",
+		"Trimmer"
+	]
+}
