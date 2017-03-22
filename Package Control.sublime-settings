@@ -1,5 +1,7 @@
 {
 	"bootstrapped": true,
+	"http_proxy": "",
+	"https_proxy": "",
 	"in_process_packages":
 	[
 	],
@@ -8,22 +10,31 @@
 		"Alignment",
 		"All Autocomplete",
 		"Anaconda",
+		"Color Highlighter",
 		"ColorPicker",
+		"CSS Less(ish)",
 		"Djaneiro",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
 		"Git",
 		"GitGutter",
+		"jQuery",
+		"LESS",
+		"lessc",
 		"Material Theme",
 		"Package Control",
 		"Package Syncing",
 		"PHP Companion",
+		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
+		"Stylus-Snippets",
 		"SublimeEnhancedUtilitiesSet",
 		"SublimeLinter",
 		"Theme - Spacegray",
 		"Trimmer"
-	]
+	],
+	"proxy_password": "",
+	"proxy_username": ""
 }
